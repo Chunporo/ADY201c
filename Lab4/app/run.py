@@ -14,7 +14,7 @@ from sqlalchemy import create_engine
 import sqlite3
 
 app = Flask(__name__)
-
+    
 class StartingVerbExtractor(BaseEstimator, TransformerMixin):
     def starting_verb(self, text):
         sentence_list = nltk.sent_tokenize(text)

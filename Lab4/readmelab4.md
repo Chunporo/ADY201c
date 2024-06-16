@@ -1,9 +1,4 @@
-<div align="center">
-    <a href="https://imgbb.com/">
-        <img src="https://i.ibb.co/xDQ2php/Remove-bg-ai-1718529605312.png" alt="RescueRoute logo" title="RescueRoute" height="180" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </a>
-</div>
-
+![logo](img/logo.png)
 # RescueRoute
 
 :star: **Star us on GitHub — it motivates us a lot!**
@@ -29,7 +24,7 @@ To use RescueRoute, follow these steps:
     ```sh
     python app\run.py
     ```
-4. Go to ```http://0.0.0.0:3001/```
+4. Go to `http://0.0.0.0:3001/`
 
 ## Contributing
 

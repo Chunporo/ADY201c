@@ -1,7 +1,7 @@
-CREATE TABLE disaster (
+CREATE TABLE tbl_disaster (
     id INT PRIMARY KEY,
-    message NVARCHAR(MAX),
-    original NVARCHAR(MAX),
+    message NTEXT,
+    original NTEXT,
     genre VARCHAR(50), 
     related BIT,
     request BIT,

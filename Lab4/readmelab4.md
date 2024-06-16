@@ -10,27 +10,14 @@
 
 [RescueRoute]() is part of the Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. The dataset contains pre-labelled tweets and messages from real-life disaster events. The project's aim is to build a Natural Language Processing (NLP) model to classify messages related to disaster events.
 
-## Project Overview
-
-RescueRoute is a data science project that focuses on analyzing and classifying disaster-related messages. By leveraging NLP techniques, the project aims to:
-
-- Automatically categorize messages to identify urgent needs during disasters.
-- Provide actionable insights to aid disaster response efforts.
-- Improve the efficiency and effectiveness of communication during emergencies.
-
-## Features
-
-- **Dataset**: Pre-labelled messages from various disaster events.
-- **NLP Model**: Uses advanced NLP techniques for message classification.
-- **Collaboration**: Developed as part of a Udacity Nanodegree program in partnership with Figure Eight.
-
 ## Usage
 
 To use RescueRoute, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/RescueRoute.git
+    git clone git@github.com:Chunporo/ADY201c.git
+    cd lab4
     ```
 
 2. **Install the required dependencies**:
@@ -40,16 +27,18 @@ To use RescueRoute, follow these steps:
 
 3. **Run the project**:
     ```sh
-    python run.py
+    python app\run.py
     ```
+4. Go to ```http://0.0.0.0:3001/```
 
 ## Contributing
 
 We welcome contributions to RescueRoute! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
 
+<a name="license"></a>
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 

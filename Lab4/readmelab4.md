@@ -71,8 +71,8 @@ We welcome contributions to RescueRoute! Please see our [CONTRIBUTING.md](CONTRI
 ## Screenshot
 
 ![screenshot1](img/screenshot1.png)
+![screenshot2](img/screenshot2.png)
 
 ## Acknowledgements
-
 
 Feel free to reach out if you have any questions or need further assistance. Thank you for your interest in RescueRoute!
